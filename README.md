@@ -4,7 +4,7 @@ This repository implements StyleGAN1 from scratch (PyTorch) and demonstrates how
 
 The overall flow used in this project:
 
-- Train a StyleGAN1 generator on FFHQ (16 hours on Colab T4 GPU - reach out for the PyTorch model weights).
+- Train a StyleGAN1 generator on FFHQ (16 hours on Colab T4 GPU - Please reach out for the PyTorch model weights).
 
 - Compute an age boundary in the generator’s W-space using CelebA (pairs of young/old).
 
