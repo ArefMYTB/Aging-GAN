@@ -1,4 +1,4 @@
-# Latent Age Editing with StyleGAN1 (PyTorch)
+# Latent Age Control with StyleGAN1 (PyTorch)
 
 This repository implements StyleGAN1 from scratch (PyTorch) and demonstrates how to control facial age by discovering a latent-space age boundary.
 
